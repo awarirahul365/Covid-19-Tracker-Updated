@@ -1,0 +1,32 @@
+{
+    "state": "Andaman and Nicobar Islands",
+    "statecode": "AN",
+    "districtData": [
+      {
+        "district": "North and Middle Andaman",
+        "notes": "",
+        "active": 0,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 1,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "South Andaman",
+        "notes": "",
+        "active": 18,
+        "confirmed": 32,
+        "deceased": 0,
+        "recovered": 14,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    ]
+  }

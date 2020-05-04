@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "408437947007",
+    "firebase_url": "https://covitrac.firebaseio.com",
+    "project_id": "covitrac",
+    "storage_bucket": "covitrac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408437947007:android:5c34a13c29f1abd4411d4a",
+        "android_client_info": {
+          "package_name": "com.example.covibattle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408437947007-5ll16deio9405bp9aobjpmgvd915ssan.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.covibattle",
+            "certificate_hash": "4c210f5cf46df0bb848ad4f57f9900bb6122dfda"
+          }
+        },
+        {
+          "client_id": "408437947007-16jhl68odf09bikpi2h4gkhbgokj1tsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQg6HOj3-5SulQsi7gr3MDSqZAEOifjAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408437947007-16jhl68odf09bikpi2h4gkhbgokj1tsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
